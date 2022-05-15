@@ -79,6 +79,9 @@ notality:
   # you can use any name here, but you should look at the existing categories first
   categories: 
     - Writing
+  
+  anti_features:
+    -
 
 another_app:
   git: https://github.com/xarantolus/myotherapp
