@@ -1,0 +1,12 @@
+app:
+  git:
+  name: ""
+  description: |
+    
+  # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
+  # you can use any name here, but you should look at the existing categories first
+  categories: 
+    -
+   
+  anti_features:
+    -
