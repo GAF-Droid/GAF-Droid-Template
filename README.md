@@ -9,9 +9,6 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 
 | Icon                                                                                                                                                                   | Name                                                   | Description                                                                 | Version    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------- | ---------- |
-| <a href="https://github.com/xarantolus/notality"><img src="fdroid/repo/icons/io.github.xarantolus.notality.10.png" alt="Notality icon" width="36px" height="36px"></a> | [**Notality**](https://github.com/xarantolus/notality) | A very simple note taking app for Android                                   | 1.8.1 (10) |
-| <a href="https://github.com/xarantolus/rockit"><img src="fdroid/repo/icons/" alt="Rock It! icon" width="36px" height="36px"></a>                                       | [**Rock It!**](https://github.com/xarantolus/rockit)   | Rock It! is an Android app that helps you stay informed on all things space | 1.5.0 (22) |
-
 <!-- end apps table -->
 
 ### How to use
