@@ -7,8 +7,9 @@ This repository is a template for an [F-Droid](https://f-droid.org) repo using G
 
 <!-- This table is auto-generated. Do not edit -->
 
-| Icon                                                                                                                                                                   | Name                                                   | Description                                                                 | Version    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------- | ---------- |
+| Icon | Name | Description | Version |
+| ---- | ---- | ----------- | ------- |
+
 <!-- end apps table -->
 
 ### How to use
@@ -35,7 +36,7 @@ Please note that some apps published here might contain [Anti-Features](https://
 
 ### For developers
 
-If you are a developer and want to publish your own apps right from GitHub Actions as an F-Droid repo, you can generate a repository from this template and see [the documentation](setup.md) for more information on how to set it up.
+If you are a developer and want to publish your own apps right from GitHub Actions as an F-Droid repo, you can generate a repository from this template and see [the documentation](/docs/setup.md) for more information on how to set it up.
 
 ### [License](LICENSE)
 
