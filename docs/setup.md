@@ -23,7 +23,7 @@ When building/releasing a new version of your app, you need to make sure that yo
 
     We only need these tools once to set up the repository. After these steps you can delete them, as now GitHub Actions will manage everything.
 
-3. Then run `fdroid init` in the `fdroid` subdirectory:
+3. Then create a subdirectory called `fdroid` in your cloned repo and run `fdroid init` in it:
 
         cd fdroid && fdroid init
 
